@@ -1,1 +1,1 @@
-./configure --prefix=/home/nzf/software/nginx --with-debug --with-pcre=../pcre-8.40 --with-zlib=../zlib-1.2.11--with-openssl=../openssl-1.0.2k --add-module=../nginx-rtmp-module-master --with-http_ssl_module
+./configure --prefix=/home/nzf/software/nginx --with-debug --with-pcre=../pcre-8.40 --with-zlib=../zlib-1.2.11 --with-openssl=../openssl-1.0.2k --add-module=../nginx-rtmp-module-master --with-http_ssl_module
